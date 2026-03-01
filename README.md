@@ -103,9 +103,3 @@ administration-personnel/
 
 This project is licensed under the **MIT License**.
 
----
-
-## 👤 Author
-
-- **ISMEG-ZAKARIA**
-- School Project - 2026
