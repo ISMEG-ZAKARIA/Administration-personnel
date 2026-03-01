@@ -1,0 +1,35 @@
+# --- Build Artifacts ---
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.out
+
+# --- IDE / Editor Files ---
+.vs/
+*.user
+*.suo
+*.sln
+*.code-workspace
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- CMake / Build Directories ---
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# --- Misc ---
+*.log
+*.tmp
+.DS_Store
